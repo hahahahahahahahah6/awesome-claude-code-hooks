@@ -90,6 +90,7 @@ Send a ping to Slack, Telegram, desktop notification center, etc. when Claude ne
 
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) — 20+ hooks bundled with agents, skills, commands, and rules.
 - [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) — hub for finding hooks alongside skills, agents, commands, and marketplace plugins.
+- [yotamleo/Himmel](https://github.com/yotamleo/Himmel) — PR-gated Claude Code harness whose guardrail hooks block edits on `main`, block secret reads, and block opening a PR without a passing multi-agent review, all enforced at the tool-call layer.
 - [composio-community/awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins) — curated Claude Code plugins that bundle hooks with commands/agents/MCP servers.
 - [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) — battle-tested hook configs across Claude Code, Codex, and Cursor.
 - [kyu1204/oh-my-harness](https://github.com/kyu1204/oh-my-harness) — generates a catalog of enforcement hooks (TDD guard, branch guard, command guard, commit-test gate, auto-lint, auto-PR) from a plain-English project description, with `omh sync --check` as a CI drift gate.

@@ -78,6 +78,7 @@ Send a ping to Slack, Telegram, desktop notification center, etc. when Claude ne
 ## Formatting / Linting / Testing Gates
 
 - [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) — toolkit of custom hooks/commands including lint/format/test gate hooks.
+- [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — fuzzy linting hook that checks Claude Code and Codex edits against team standards and test-hygiene rules, returning findings to the agent.
 - [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) — `UserPromptSubmit` hook that rewrites loose prompts into precise ones before Claude sees them.
 
 ## Voice / TTS Hooks
